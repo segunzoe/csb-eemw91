@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://segunzoe.github.io/csb-eemw91/static/css/main.061000c0.chunk.css",
+    "main.js": "https://segunzoe.github.io/csb-eemw91/static/js/main.4b8d059c.chunk.js",
+    "main.js.map": "https://segunzoe.github.io/csb-eemw91/static/js/main.4b8d059c.chunk.js.map",
+    "runtime-main.js": "https://segunzoe.github.io/csb-eemw91/static/js/runtime-main.d2ada5ed.js",
+    "runtime-main.js.map": "https://segunzoe.github.io/csb-eemw91/static/js/runtime-main.d2ada5ed.js.map",
+    "static/js/2.db4290c8.chunk.js": "https://segunzoe.github.io/csb-eemw91/static/js/2.db4290c8.chunk.js",
+    "static/js/2.db4290c8.chunk.js.map": "https://segunzoe.github.io/csb-eemw91/static/js/2.db4290c8.chunk.js.map",
+    "index.html": "https://segunzoe.github.io/csb-eemw91/index.html",
+    "static/css/main.061000c0.chunk.css.map": "https://segunzoe.github.io/csb-eemw91/static/css/main.061000c0.chunk.css.map",
+    "static/js/2.db4290c8.chunk.js.LICENSE.txt": "https://segunzoe.github.io/csb-eemw91/static/js/2.db4290c8.chunk.js.LICENSE.txt",
+    "static/media/healthy.png": "https://segunzoe.github.io/csb-eemw91/static/media/healthy.caf01719.png",
+    "static/media/overweight.png": "https://segunzoe.github.io/csb-eemw91/static/media/overweight.ea0d2287.png",
+    "static/media/underweight.png": "https://segunzoe.github.io/csb-eemw91/static/media/underweight.0a7808e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2ada5ed.js",
+    "static/js/2.db4290c8.chunk.js",
+    "static/css/main.061000c0.chunk.css",
+    "static/js/main.4b8d059c.chunk.js"
+  ]
+}
